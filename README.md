@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron Prill
 - 👀 I’m interested in new web technologies, auto racing, and being a dad to gamer/sports kids.
-- 🌱 I’m currently learning AWS, C#, Cloud data.
+- 🌱 I’m currently learning AWS, C#, Cloud data, and Roblox game development in Lua/Typescript.
 - 📫 How to reach me: prilldev[at]gmail(dot)com
 
 <!---
